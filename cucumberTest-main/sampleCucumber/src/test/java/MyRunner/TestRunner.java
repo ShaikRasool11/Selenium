@@ -42,8 +42,8 @@ public class TestRunner {
     @Parameters({ "browser", "version", "platform" })
     public void setUpClass(String browser, String version, String platform) throws Exception {
 
-    	String username = "nagasainoothan"; 
-		String accesskey = "uTmgAnEONZ455NeaAYf6dk8i0k1qAQX7lRlnBHPbyfvxhrxhTW"; 
+    	String username = "mountrasool99"; 
+		String accesskey = "PcdRn2ekAQLCfKojLreyLqZW7CvklDpGKwKSW9Tci2OE5UrKZ9"; 
 
     		DesiredCapabilities capability = new DesiredCapabilities();    		
     		capability.setCapability(CapabilityType.BROWSER_NAME, browser);
