@@ -43,35 +43,35 @@ formatter.match({
   "location": "DragDrop.open_LambdaTests_Selenium_Playground()"
 });
 formatter.result({
-  "duration": 3045537877,
+  "duration": 3474449406,
   "status": "passed"
 });
 formatter.match({
   "location": "DragDrop.click_Drag_Drop_Sliders_under_Progress_Bars_Sliders()"
 });
 formatter.result({
-  "duration": 930570909,
+  "duration": 1655335147,
   "status": "passed"
 });
 formatter.match({
   "location": "DragDrop.select_the_slider_Default_value()"
 });
 formatter.result({
-  "duration": 51904,
+  "duration": 33211,
   "status": "passed"
 });
 formatter.match({
   "location": "DragDrop.drag_the_bar_to_make_it_by()"
 });
 formatter.result({
-  "duration": 4117056467,
+  "duration": 4689703712,
   "status": "passed"
 });
 formatter.match({
   "location": "DragDrop.validating_whether_the_range_value_shows()"
 });
 formatter.result({
-  "duration": 1014981680,
+  "duration": 628123439,
   "status": "passed"
 });
 formatter.uri("InputFormSubmit.feature");
@@ -129,21 +129,21 @@ formatter.match({
   "location": "InputFormSubmit.open_the_lambdatest_selenium_playground_page()"
 });
 formatter.result({
-  "duration": 2095551265,
+  "duration": 2847269092,
   "status": "passed"
 });
 formatter.match({
   "location": "InputFormSubmit.click_Input_Form_Submit_under_Input_Forms()"
 });
 formatter.result({
-  "duration": 1608955595,
+  "duration": 1016155293,
   "status": "passed"
 });
 formatter.match({
   "location": "InputFormSubmit.click_Submit_without_filling_in_any_information_in_the_form()"
 });
 formatter.result({
-  "duration": 922707560,
+  "duration": 308910645,
   "status": "passed"
 });
 formatter.match({
@@ -156,21 +156,21 @@ formatter.match({
   "location": "InputFormSubmit.assert_error_message(String)"
 });
 formatter.result({
-  "duration": 405272069,
+  "duration": 612886369,
   "status": "passed"
 });
 formatter.match({
   "location": "InputFormSubmit.fill_in_Name_Email_and_other_fields()"
 });
 formatter.result({
-  "duration": 9068205444,
+  "duration": 4353575481,
   "status": "passed"
 });
 formatter.match({
   "location": "InputFormSubmit.click_Submit()"
 });
 formatter.result({
-  "duration": 636978948,
+  "duration": 331770493,
   "status": "passed"
 });
 formatter.match({
@@ -183,7 +183,7 @@ formatter.match({
   "location": "InputFormSubmit.once_submitted_validate_the_success_message(String)"
 });
 formatter.result({
-  "duration": 646213060,
+  "duration": 559324554,
   "status": "passed"
 });
 formatter.uri("SimpleFormDemo.feature");
@@ -236,42 +236,39 @@ formatter.match({
   "location": "SimpleFormDemo.open_LambdaTests_Selenium_Playground_from()"
 });
 formatter.result({
-  "duration": 4760258487,
+  "duration": 3467069406,
   "status": "passed"
 });
 formatter.match({
   "location": "SimpleFormDemo.click_Simple_Form_Demo_under_Input_Forms()"
 });
 formatter.result({
-  "duration": 4664215536,
+  "duration": 2461518823,
   "status": "passed"
 });
 formatter.match({
   "location": "SimpleFormDemo.validate_that_the_URL_contains_simple_form_demo()"
 });
 formatter.result({
-  "duration": 66930640,
+  "duration": 127615207,
   "status": "passed"
 });
 formatter.match({
   "location": "SimpleFormDemo.create_a_variable_to_enter_values_in_the_Enter_Message_text_box()"
-});
-formatter.result({
-  "duration": 776906792,
+});fformatter.result({
+  "duration": 804040343,
   "status": "passed"
 });
 formatter.match({
   "location": "SimpleFormDemo.click_Get_Checked_Value()"
-});
-formatter.result({
-  "duration": 332152767,
+});fformatter.result({
+  "duration": 710672115,
   "status": "passed"
 });
 formatter.match({
   "location": "SimpleFormDemo.validate_whether_the_same_text_message_is_displayed_under_the_Your_Message_section()"
-});
-formatter.result({
-  "duration": 1515560426,
+});fformatter.result({
+  "duration": 1610942012,
   "status": "passed"
 });
-}););
+});;

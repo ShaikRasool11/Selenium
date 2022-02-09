@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 3045537877,
+              "duration": 1731286437,
               "status": "passed"
             },
             "line": 3,
@@ -24,7 +24,7 @@
           },
           {
             "result": {
-              "duration": 930570909,
+              "duration": 1830422902,
               "status": "passed"
             },
             "line": 4,
@@ -36,7 +36,7 @@
           },
           {
             "result": {
-              "duration": 51904,
+              "duration": 46551,
               "status": "passed"
             },
             "line": 5,
@@ -48,7 +48,7 @@
           },
           {
             "result": {
-              "duration": 4117056467,
+              "duration": 4361733191,
               "status": "passed"
             },
             "line": 6,
@@ -60,7 +60,7 @@
           },
           {
             "result": {
-              "duration": 1014981680,
+              "duration": 477220502,
               "status": "passed"
             },
             "line": 7,
@@ -92,7 +92,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2439389600,
+              "duration": 1387264364,
               "status": "passed"
             },
             "line": 3,
@@ -104,7 +104,7 @@
           },
           {
             "result": {
-              "duration": 1677251170,
+              "duration": 1045803329,
               "status": "passed"
             },
             "line": 4,
@@ -116,7 +116,7 @@
           },
           {
             "result": {
-              "duration": 545266882,
+              "duration": 483810126,
               "status": "passed"
             },
             "line": 5,
@@ -128,7 +128,7 @@
           },
           {
             "result": {
-              "duration": 395751971,
+              "duration": 279307282,
               "status": "passed"
             },
             "line": 6,
@@ -146,7 +146,7 @@
           },
           {
             "result": {
-              "duration": 4463473985,
+              "duration": 5515640119,
               "status": "passed"
             },
             "line": 7,
@@ -158,7 +158,7 @@
           },
           {
             "result": {
-              "duration": 271950330,
+              "duration": 383848196,
               "status": "passed"
             },
             "line": 8,
@@ -170,7 +170,7 @@
           },
           {
             "result": {
-              "duration": 590454400,
+              "duration": 410050343,
               "status": "passed"
             },
             "line": 9,
@@ -208,7 +208,7 @@
         "steps": [
           {
             "result": {
-              "duration": 4760258487,
+              "duration": 2653351124,
               "status": "passed"
             },
             "line": 4,
@@ -220,7 +220,7 @@
           },
           {
             "result": {
-              "duration": 4664215536,
+              "duration": 2461518823,
               "status": "passed"
             },
             "line": 5,
@@ -232,7 +232,7 @@
           },
           {
             "result": {
-              "duration": 66930640,
+              "duration": 127615207,
               "status": "passed"
             },
             "line": 6,
@@ -244,7 +244,7 @@
           },
           {
             "result": {
-              "duration": 776906792,
+              "duration": 804040343,
               "status": "passed"
             },
             "line": 7,
@@ -256,7 +256,7 @@
           },
           {
             "result": {
-              "duration": 332152767,
+              "duration": 710672115,
               "status": "passed"
             },
             "line": 8,
@@ -268,7 +268,7 @@
           },
           {
             "result": {
-              "duration": 1515560426,
+              "duration": 1610942012,
               "status": "passed"
             },
             "line": 9,
@@ -287,5 +287,4 @@
     "keyword": "Feature",
     "uri": "SimpleFormDemo.feature"
   }
-]
-]
+]]
